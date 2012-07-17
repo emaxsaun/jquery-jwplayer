@@ -17,3 +17,8 @@ $("#video-area").on('jwplayer:complete', function(event, data){
 });
 
 ```
+
+### Credits
+
+- Built by [Fetch!](http://www.fetch.nl/). 
+- Concept and development by [Koen Punt](http://koen.pt/)
